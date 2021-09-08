@@ -73,8 +73,6 @@ pyrsistent==0.17.3
 python-bidi==0.4.2
 python-dateutil==2.8.1
 pytz==2021.1
-pywin32==300
-pywinpty==1.1.1
 pyzmq==22.0.3
 qtconsole==5.1.0
 QtPy==1.9.0
@@ -86,8 +84,6 @@ Send2Trash==1.5.0
 six==1.16.0
 sklearn==0.0
 smart-open==3.0.0
-spacy==3.0.6
-spacy-legacy==3.0.5
 srsly==2.4.1
 terminado==0.10.0
 testpath==0.5.0
